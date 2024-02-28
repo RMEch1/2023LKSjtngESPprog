@@ -1,5 +1,6 @@
-Any accepted commit will be merged..
-Peek from the main.c i wrote the source code beatuifully!! ;)
+Any accepted commit will be merged! 
+Peek from the main.c . i wrote the code beatuifully! ;)
+
 ```
 #include "main.h"
 
